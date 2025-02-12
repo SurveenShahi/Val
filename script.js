@@ -7,7 +7,7 @@ const noBtn = document.querySelector(".no-btn");
 yesBtn.addEventListener("click", () => {
   question.innerHTML = "YAYYYY thank u for being my valentine my darling, ill buy kinder joy for you choohi";
   gif.src =
-    "https://media1.giphy.com/media/iCVzZwwE6QNAV2tEE0/giphy.gif";
+    "https://tenor.com/view/pedro-racoon-gif-4911990361816642415";
 });
 
 noBtn.addEventListener("mouseover", () => {
