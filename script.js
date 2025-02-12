@@ -7,7 +7,7 @@ const noBtn = document.querySelector(".no-btn");
 yesBtn.addEventListener("click", () => {
   question.innerHTML = "YAYYYY thank u for being my valentine my darling, ill buy kinder joy for you choohi";
   gif.src =
-    "https://tenor.com/view/pedro-racoon-gif-4911990361816642415";
+    "https://img.freepik.com/premium-photo/raccoon-holding-red-heart-its-paws-love-concept-cute-baby-raccoon-holding-red-heart-valentines-day-ai-generated_538213-5682.jpg";
 });
 
 noBtn.addEventListener("mouseover", () => {
