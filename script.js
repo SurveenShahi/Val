@@ -5,7 +5,7 @@ const yesBtn = document.querySelector(".yes-btn");
 const noBtn = document.querySelector(".no-btn");
 
 yesBtn.addEventListener("click", () => {
-  question.innerHTML = "Aww u said yess, ill get u a kinder joy my love❤️❤️";
+  question.innerHTML = "Aww u said yess,ill get u kinder joy my love❤️❤️";
   gif.src =
     "https://img.freepik.com/premium-photo/raccoon-holding-red-heart-its-paws-love-concept-cute-baby-raccoon-holding-red-heart-valentines-day-ai-generated_538213-5682.jpg";
 });
